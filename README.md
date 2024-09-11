@@ -2,3 +2,4 @@
 
 * BPE
 * relative positional embedding vs absolute positional embedding
+* lora & qlora & quantization
