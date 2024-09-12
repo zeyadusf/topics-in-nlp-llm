@@ -158,6 +158,10 @@ Each branch reflects different strategies to reduce the computational cost of fi
 <br>
 
 <b> :link: [Click here to know about LoRA]()</b>
+<hr>
+<br>
+<hr>
+<hr>
 
 <div id="projects">
 
