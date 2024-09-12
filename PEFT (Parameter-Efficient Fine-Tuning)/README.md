@@ -139,8 +139,7 @@ Each branch reflects different strategies to reduce the computational cost of fi
 # Questions? 
 
 <h3 style="font-family:'Georgia',serif; font-size: 1.2em;color:#982B1C;margin-bottom: 10px;">❓ Is "Quantization" a method of "PEFT" ?</h3>
-<font color="#3795BD">
-  
+
 >  **Quantization** is not a **PEFT (Parameter-Efficient Fine-Tuning)** method but can be used alongside it to improve efficiency.
 
 > **Quantization** is the process of reducing the precision of numerical values (such as weights and activations) in an AI model. The goal is to reduce the size of the model and speed up computations, making models more memory and power efficient.
@@ -150,4 +149,55 @@ Each branch reflects different strategies to reduce the computational cost of fi
 > - **Quantization** works to reduce the precision of the weights or activations in the model to reduce memory consumption and speed up computations, such as  reducing the weights from 32 bits to 8 bits or 4 bits.
 
 > ### Relationship between PEFT and Quantization:
-> - **QLoRa** is an example of combining the two methods. QLoRa uses Quantization to reduce the precision of the weights to 4 bits, and then applies LoRa to update a small portion of the weights via low-order matrices, providing maximum efficiency in memory and computation. In short, **Quantization** is not a ?  direct part of PEFT but can be used alongside it to achieve higher efficiency in training and optimization, as in QLoRa.</font>
+> - **QLoRa** is an example of combining the two methods. QLoRa uses Quantization to reduce the precision of the weights to 4 bits, and then applies LoRa to update a small portion of the weights via low-order matrices, providing maximum efficiency in memory and computation. In short, **Quantization** is not a ?  direct part of PEFT but can be used alongside it to achieve higher efficiency in training and optimization, as in QLoRa.
+
+<b> :link: [What is Quantization?]()</b>
+
+---
+<h3 style="font-family:'Georgia',serif; font-size: 1.2em;color:#982B1C;margin-bottom: 10px;">❓ What is LoRA?</h3>
+<br>
+
+<b> :link: [Click here to know about LoRA]()</b>
+
+<div id="projects">
+
+# Projects
+
+<table style="width:100%">
+  <tr>
+    <th>NO.</th>
+    <th>Project Name</th>
+    <th>Model Name</th>
+    <th>Task</th>
+    <th>GitHub</th>
+    <th>Kaggle</th>
+    <th>Hugging Face</th>
+    <th>Space</th>
+    <th>Notes</th>
+  </tr>
+
+  <tr>
+    <td>1</td>
+    <td>Summarization-by-Finetuning-FlanT5-LoRA</td> 
+    <td><b>FlanT5</b></td>
+    <td><b>Summarization</b></td>
+    <td><a href="https://github.com/zeyadusf/Summarization-by-Finetuning-FlanT5-LoRA">Summarization-by-Finetuning-FlanT5-LoRA</a></td>
+    <td><a href="https://www.kaggle.com/code/zeyadusf/summarization-by-finetuning-flant5-lora">Summarization by Finetuning FlanT5-LoRA</a></td>
+    <td><a href="https://huggingface.co/zeyadusf/FlanT5Summarization-samsum">FlanT5Summarization-samsum </a></td>
+    <td><a href="https://huggingface.co/spaces/zeyadusf/Summarizationflant5">Summarization by Flan-T5-Large with PEFT</a></td>
+    <td>
+      <i>use "LoRA"</i><br>
+    </td>
+  </tr>
+  </table>
+</div>
+
+<br>
+<div id="resourses">
+
+# Resources:
+
+> - [Github : PEFT ](https://github.com/huggingface/peft)
+> - [Medium : Fine-Tune LLM with PEFT](https://medium.com/@MUmarAmanat/fine-tune-llm-with-peft-60b2798f1e5f)
+> - [Arxiv : Parameter-Efficient Fine-Tuning Methods forPretrained Language Models](https://arxiv.org/pdf/2312.12148)
+> - [Snorkel : LoRA: Low-Rank Adaptation for LLMs](https://snorkel.ai/lora-low-rank-adaptation-for-llms/#h.mbbmv22kacdj)
