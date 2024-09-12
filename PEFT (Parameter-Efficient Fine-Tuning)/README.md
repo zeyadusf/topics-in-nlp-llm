@@ -136,22 +136,18 @@ Each branch reflects different strategies to reduce the computational cost of fi
 <br>
 <div id="q">
 
-# ❓ Questions?:
+# Questions? 
 
-<!-- HTML with inline styling -->
-
-<p style="font-family:'Georgia',serif; font-size: 1.2em;color:#982B1C;margin-bottom: 10px;">Is "Quantization" a method of "PEFT" ?</p>
-
+<h3 style="font-family:'Georgia',serif; font-size: 1.2em;color:#982B1C;margin-bottom: 10px;">❓ Is "Quantization" a method of "PEFT" ?</h3>
 <font color="#3795BD">
+  
+>  **Quantization** is not a **PEFT (Parameter-Efficient Fine-Tuning)** method but can be used alongside it to improve efficiency.
 
-**Quantization** is not a **PEFT (Parameter-Efficient Fine-Tuning)** method but can be used alongside it to improve efficiency.
+> **Quantization** is the process of reducing the precision of numerical values (such as weights and activations) in an AI model. The goal is to reduce the size of the model and speed up computations, making models more memory and power efficient.
 
-**Quantization** is the process of reducing the precision of numerical values (such as weights and activations) in an AI model. The goal is to reduce the size of the model and speed up computations, making models more memory and power efficient.
-### How is Quantization different from PEFT?
-- **PEFT** focuses on reducing the number of parameters that are updated during the training process, such as LoRa technology that updates a small portion of the weight matrices.
-- **Quantization** works to reduce the precision of the weights or activations in the model to reduce memory consumption and speed up computations, such as reducing the weights from 32 bits to 8 bits or 4 bits.
+> ### How is Quantization different from PEFT?
+> - **PEFT** focuses on reducing the number of parameters that are updated during the training process, such as LoRa technology that updates a small portion of the weight matrices.
+> - **Quantization** works to reduce the precision of the weights or activations in the model to reduce memory consumption and speed up computations, such as  reducing the weights from 32 bits to 8 bits or 4 bits.
 
-### Relationship between PEFT and Quantization:
-- **QLoRa** is an example of combining the two methods. QLoRa uses Quantization to reduce the precision of the weights to 4 bits, and then applies LoRa to update a small portion of the weights via low-order matrices, providing maximum efficiency in memory and computation. In short, **Quantization** is not a direct part of PEFT but can be used alongside it to achieve higher efficiency in training and optimization, as in QLoRa.
-
-</font>
+> ### Relationship between PEFT and Quantization:
+> - **QLoRa** is an example of combining the two methods. QLoRa uses Quantization to reduce the precision of the weights to 4 bits, and then applies LoRa to update a small portion of the weights via low-order matrices, providing maximum efficiency in memory and computation. In short, **Quantization** is not a ?  direct part of PEFT but can be used alongside it to achieve higher efficiency in training and optimization, as in QLoRa.</font>
