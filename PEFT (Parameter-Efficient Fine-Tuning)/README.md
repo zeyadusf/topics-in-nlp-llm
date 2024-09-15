@@ -177,7 +177,7 @@ Each branch reflects different strategies to reduce the computational cost of fi
     <th>Kaggle</th>
     <th>Hugging Face</th>
     <th>Space</th>
-    <th>Notes</th>
+    <th>Method</th>
   </tr>
 
   <tr>
