@@ -193,6 +193,19 @@ Each branch reflects different strategies to reduce the computational cost of fi
       <i>use "LoRA"</i><br>
     </td>
   </tr>
+    <tr>
+    <td>2</td>
+    <td>Finetune Llama2</td> 
+    <td><b>Llama2</b></td>
+    <td><b>Text Generation</b></td>
+    <td><a href="https://github.com/zeyadusf/FineTune-Llama2">FineTune-Llama2</a></td>
+    <td><a href="https://www.kaggle.com/code/zeyadusf/finetune-llama2">FineTune-Llama2</a></td>
+    <td><a href="https://huggingface.co/zeyadusf/llama2-miniguanaco">llama2-miniguanaco </a></td>
+    <td><a href=#">---</a></td>
+      <td>
+      <i>use "LoRA"</i><br>
+    </td>
+  </tr>
   </table>
 </div>
 
