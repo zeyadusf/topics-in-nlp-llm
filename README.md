@@ -9,6 +9,8 @@ In this repo I will share different topics on anything I want to know in nlp and
 >    - [LoRA](https://github.com/zeyadusf/topics-in-nlp-llm/tree/main/PEFT%20(Parameter-Efficient%20Fine-Tuning)/LoRA)
 >    -  QLoRA
 
+> Quantization
+
 > - Byte Pair Encoding (BPE).
 
 >  - Relative positional embedding vs Absolute positional embedding.
