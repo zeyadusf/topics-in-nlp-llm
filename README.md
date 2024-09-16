@@ -5,11 +5,11 @@ In this repo I will share different topics on anything I want to know in nlp and
 
 ### Topics :
 
->- **[PEFT (Parameter-Efficient Fine-Tuning)](https://github.com/zeyadusf/topics-in-nlp-llm/tree/main/PEFT%20(Parameter-Efficient%20Fine-Tuning))**
+> - **[PEFT (Parameter-Efficient Fine-Tuning)](https://github.com/zeyadusf/topics-in-nlp-llm/tree/main/PEFT%20(Parameter-Efficient%20Fine-Tuning))**
 >    - [LoRA](https://github.com/zeyadusf/topics-in-nlp-llm/tree/main/PEFT%20(Parameter-Efficient%20Fine-Tuning)/LoRA)
 >    -  QLoRA
 
-> Quantization
+>  -  Quantization
 
 > - Byte Pair Encoding (BPE).
 
