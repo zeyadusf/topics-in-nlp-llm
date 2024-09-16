@@ -157,7 +157,7 @@ Each branch reflects different strategies to reduce the computational cost of fi
 <h3 style="font-family:'Georgia',serif; font-size: 1.2em;color:#982B1C;margin-bottom: 10px;">❓ What is LoRA?</h3>
 <br>
 
-<b> :link: [Click here to know about LoRA]()</b>
+<b> :link: [Click here to know about LoRA](https://github.com/zeyadusf/topics-in-nlp-llm/tree/main/PEFT%20(Parameter-Efficient%20Fine-Tuning)/LoRA)</b>
 <hr>
 <br>
 <hr>
