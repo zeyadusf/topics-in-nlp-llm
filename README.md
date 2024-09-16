@@ -18,8 +18,10 @@ In this repo I will share different topics on anything I want to know in nlp and
 >  - Relative positional embedding vs Absolute positional embedding.
 
 ---
+
 ### Related links
-**[`LLMs-from-Scratch`](https://github.com/zeyadusf/LLMs-from-Scratch)**
+
+**[`LLMs from Scratch`](https://github.com/zeyadusf/LLMs-from-Scratch)**
 **[`FineTuning Large Language Models`](https://github.com/zeyadusf/FineTuning-LLMs)**
 <!--social media-->
 <hr>
