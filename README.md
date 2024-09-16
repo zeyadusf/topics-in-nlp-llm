@@ -1,6 +1,8 @@
-# Topics in NLP and LLMs
+<div align="center"> 
+  
+  # Topics in NLP and LLMs
 <br>
-
+</div>
 In this repo I will share different topics on anything I want to know in nlp and llms  
 
 ### Topics :
